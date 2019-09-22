@@ -1,0 +1,17 @@
+{
+    "name": "Unity.Notifications",
+    "references": [
+        "Unity.Notifications.iOS",
+        "Unity.Notifications.Android"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": []
+}

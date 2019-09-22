@@ -1,0 +1,21 @@
+{
+    "name": "Unity.Notifications.Tests",
+    "references": [
+        "Unity.Notifications",
+        "Unity.Notifications.iOS"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ]
+}
