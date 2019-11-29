@@ -1,0 +1,23 @@
+{
+  "name": "com.unity.xr.arcore",
+  "displayName": "ARCore XR Plugin",
+  "version": "2.1.2",
+  "unity": "2018.3",
+  "description": "Provides native Google ARCore integration for use with Unity's multi-platform XR API.\n=Supported Features=\n-Efficient Background Rendering\n-Horizontal Planes\n-Depth Data\n-Reference Points\n-Hit Testing",
+  "keywords": [
+    "arcore",
+    "ar",
+    "augmented",
+    "xr",
+    "reality",
+    "core"
+  ],
+  "dependencies": {
+    "com.unity.xr.arsubsystems": "2.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Unity-Technologies/upm-xr-arcore.git",
+    "revision": "c864627148905c9a3ae49e99e2739f66e6d37382"
+  }
+}
