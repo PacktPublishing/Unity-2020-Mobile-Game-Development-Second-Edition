@@ -36,6 +36,13 @@ public class GameController : MonoBehaviour
     /// </summary>
     private void Start()
     {
+        // If there is no UnityAdController, we can add it through code
+        if(!GameObject.FindObjectOfType<UnityAdController>())
+        {
+            var adController = new GameObject("Unity Ad Manager");
+            adController.AddComponent<UnityAdController>();
+        }
+        
         // Set our starting point 
         nextTileLocation = startPoint;
         nextTileRotation = Quaternion.identity;
