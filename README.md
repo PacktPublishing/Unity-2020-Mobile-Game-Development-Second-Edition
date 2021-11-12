@@ -47,6 +47,10 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 [Click here to download it](https://static.packt-cdn.com/downloads/9781838987336_ColorImages.pdf).
 
+## Errata
+
+* Page 116: Next, let's update the ```Update``` function with the following highlighted code _should be_ Next, let's update the ```FixedUpdate``` function with the following highlighted code
+
 ### Related products <Other books you may enjoy>
 * Unity 2020 Virtual Reality Projects - Third Edition [[Packt]](https://www.packtpub.com/product/unity-2020-virtual-reality-projects-third-edition/9781839217333?utm_source=github&utm_medium=repository&utm_campaign=9781839217333) [[Amazon]](https://www.amazon.com/dp/1839217332)
 
